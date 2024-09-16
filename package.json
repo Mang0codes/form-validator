@@ -1,0 +1,23 @@
+{
+  "name": "form-validator-package",
+  "version": "1.0.0",
+  "description": "A simple form and input validation library",
+  "main": "index.js",
+  "keywords": [
+    "validator",
+    "form",
+    "input",
+    "email",
+    "password",
+    "phone",
+    "url"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "form-validator-package": "^1.0.0"
+  }
+}
